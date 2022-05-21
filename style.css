@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+  font-family: 'Poppins';
+}
+
+header > div {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+  }
+  
+  nav {
+    width: 600px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .blackHeart {
+    width: 20px;
+    margin-right: 1rem;
+  }
+
+  .logo-npm {
+    width: 50px;
+    margin-right: 1rem;
+  }
+  .lupa-npm{
+     
+    width: 30px;
+    margin-right: 1 px;
+    background-color: rgba(0,0,0,.05);
+    height: 35px;
+    width: 35px;
+    
+    
+  }
+
+  form{
+     
+      padding-right: 60%;
+      margin-right: 15%;
+  }
+
+  #search{
+    position: absolute;
+    background-color: var(--search-box-bg, rgba(0,0,0,.05));
+    border: none;
+    color: var(--search-box-text);
+    font-family: inherit;
+    font-size: inherit;
+    height:35px;
+    outline: none;
+    padding-inline-end: 44px;
+    padding-inline-start: 52px;
+    position: relative;
+    width: 1535%;
+    margin-left: 0%;
+    margin-top: px;
+    
+}
+
+  button{
+    
+    height: 35px;
+    margin-right: 255%;
+    border: none;
+    background-color: #fb3e44;
+    color: white;
+    
+  
+      
+  }
+ 
+  .join{
+    margin-left: 1500px;
+    margin-bottom: 500px;
+  }
+
+  .general-information{
+      background-color: rgba(232,217,217,.3);
+      height: 600px;
+      
+
+  }
+
+  .h1{
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    text-align: center;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+   
+      }
+    p1{
+        display: flex;
+        justify-content: center;
+        
+        text-align: center;
+       
+        width: 20%;
+        margin-left: 40%;
+        
+    }
+
+    .link-plans{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        
+        width: 20%;
+        margin-left: 40%;
+        padding-bottom: 40px;
+        padding-top: 40px;
+        
+
+    }
+
+    #seeplans{
+        background-color: #FB3B49;
+        box-shadow: 8px 8px 0 rgba(251,59,73,.2);
+        padding: 0px 35px 5px 35px;
+        color: white;
+        margin-right: 40%;
+        text-decoration: none;
+        height: 50px;
+        width: 50px;
+
+    }
+
+    #join {
+        color: #000;
+        text-decoration: none;
+        background-color: white;
+        height: 50px;
+        width: 500px;
+    }
+
+    .bussines{
+        
+            background-color: white;
+            height: 600px;
+            margin-bottom: 500%;
+           
+      
+        
+    }
+    .hexagono{
+        
+        height: 5cm;
+        margin-left: 45%;
+        margin-top: 35px;
+    }
+    
+    #h2{
+        display: flex;
+        justify-content: center;
+        font-size: 25px;
+        
+        text-align: center;
+        text-align: center;
+        width: 50%;
+        margin-left: 25%;
+        font-style: italic;
+        transform: skew(9deg,0deg);
+        background-color: rgba(255,204,53,.4);
+        padding: 5px 10px 5px 10px;
+        
+        
+        
+
+    }
+
+    p2{
+        display: flex;
+        justify-content: center;
+        
+        text-align: center;
+        
+        width: 40%;
+        margin-left: 30%;
+        
+    }
+    
+    .seccion3{
+      margin-top: 150px;
+      display: flex;
+      flex-direction: row;
+    
+      justify-content: center;
+      text-align: center;
+     
+      padding-left: 55px;
+      padding-right: 55px;
+    }
+
+    .user-people{
+      height: 45px;
+      margin-right: 255px;
+    }
+    
+    .configuration{
+      
+      
+    }
+
+    .team{
+     
+    }
+
+    .familiar{
+     
+    }
+    .audit{
+     
+      
+    }
+
+    h3{
+      font-size: 15px;
+      color: #ED1C24;
+      width: 50%;
+      margin-left: 5%;
+    }
+
+    .submit{
+      
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: #000;
+    box-shadow: 8px 8px 0 rgba(128,83,35,.2);
+   
+    padding: 20px 25px 0px 5px;
+    width: 400px;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 40%;
+    text-decoration: none;
+    TEX
+      
+    }
+
+  
+
